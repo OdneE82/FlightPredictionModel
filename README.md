@@ -1,2 +1,2 @@
 # FlightPredictionModel
-stupid flight prediction model
+flight prediction model
